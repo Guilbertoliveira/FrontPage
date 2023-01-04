@@ -11,7 +11,7 @@
 * [Badges](#badges)
 * [Índice](#índice)
 * [Descrição do Projeto](#descricao-projeto)
-* [Status do Projeto](#status-do-Projeto)
+* [Status do Projeto](#status-do-projeto)
 * [Funcionalidades e Demonstração da Aplicação](#demonstracao)
 * [Acesso ao Projeto](#acesso-ao-projeto)
 * [Tecnologias utilizadas](#tecnologias-utilizadas)
@@ -20,6 +20,10 @@
 * [Licença](#licença)
 * [Conclusão](#conclusão)
 
+<h2 id="status-do-projeto">Project Status</h2>
+<p>The project was completed with all elements and styling done and customized.</p>
+  
+  
 <h2 id="demonstracao">Website demo</h2>
 <img src="https://user-images.githubusercontent.com/41201436/210664652-ff24f1db-b9a9-4085-8092-72533ae49d50.gif" alt="this slowpoke moves"  width="500" />
 
@@ -28,7 +32,7 @@
 <h2 id="descricao-projeto">Project description</h2>
 <p>Single page with several elements and classes using HTML, CSS, and Figma technology to realize the page that was challenged by Alura's course. Some customizations were made to make it more pleasant. </p>
 
-<h3>Project access</h3>
+<h2 id="acesso-ao-projeto">Project access</h2>
 <p>To access the project that is live, use the <a src="https://frontpage-bay.vercel.app/">link</a>
 
 
