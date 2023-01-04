@@ -4,14 +4,13 @@
 <img alt="GitHub Language Count" src="https://img.shields.io/github/languages/count/Guilbertoliveira/Frontpage" />
 <img alt="Github License" src="https://img.shields.io/github/license/Guilbertoliveira/Frontpage" />
 <img alt="GitHub Last Commit" src="https://img.shields.io/github/last-commit/Guilbertoliveira/Frontpage" /></p>
-Single page with several elements and classes using technology.
 
 # Índice 
 
 * [Título e Imagem de capa](#single)
 * [Badges](#badges)
 * [Índice](#índice)
-* [Descrição do Projeto](#descrição-do-projeto)
+* [Descrição do Projeto](#descricaoprojeto)
 * [Status do Projeto](#status-do-Projeto)
 * [Funcionalidades e Demonstração da Aplicação](#funcionalidades-e-demonstração-da-aplicação)
 * [Acesso ao Projeto](#acesso-ao-projeto)
@@ -20,4 +19,9 @@ Single page with several elements and classes using technology.
 * [Pessoas Desenvolvedoras do Projeto](#pessoas-desenvolvedoras)
 * [Licença](#licença)
 * [Conclusão](#conclusão)
+
+<h2 id="DescricaoProjeto">Project description</h2>
+<p>Single page with several elements and classes using HTML, CSS, and Figma technology to realize the page that was challenged by Alura's course. Some customizations were made to make it more pleasant. </p>
+
+
 
