@@ -33,7 +33,18 @@
 <p>Single page with several elements and classes using HTML, CSS, and Figma technology to realize the page that was challenged by Alura's course. Some customizations were made to make it more pleasant. </p>
 
 <h2 id="acesso-ao-projeto">Project access</h2>
-<p>To access the project that is live, use the <a src="https://frontpage-bay.vercel.app/">link</a>
+<p>To access the project that is live, use the <a href="https://frontpage-bay.vercel.app/">link</a>
+  
+<h2>Technologies used</h2>
+<p>
+    <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" height="40" width="55" />
+    <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" height="40" width="55"/>
+    <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" width="55"/>
+    <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" width="55"/> 
+</p>
+    
+ 
+
 
 
 
