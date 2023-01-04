@@ -5,6 +5,8 @@
 <img alt="Github License" src="https://img.shields.io/github/license/Guilbertoliveira/Frontpage" />
 <img alt="GitHub Last Commit" src="https://img.shields.io/github/last-commit/Guilbertoliveira/Frontpage" /></p>
 
+
+<!--
 # Índice 
 
 * [Título e Imagem de capa](#single)
@@ -18,7 +20,7 @@
 * [Pessoas Contribuidoras](#pessoas-contribuidoras)
 * [Pessoas Desenvolvedoras do Projeto](#pessoas-desenvolvedoras)
 * [Licença](#licença)
-* [Conclusão](#conclusão)
+* [Conclusão](#conclusão) !-->
 
 <h2 id="status-do-projeto">Project Status</h2>
 <p>The project was completed with all elements and styling done and customized.</p>
