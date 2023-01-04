@@ -20,9 +20,17 @@
 * [Licença](#licença)
 * [Conclusão](#conclusão)
 
+<h2></h2>
+![Video_230104194808](https://user-images.githubusercontent.com/41201436/210664652-ff24f1db-b9a9-4085-8092-72533ae49d50.gif)
+
+
 <h2 id="DescricaoProjeto">Project description</h2>
 <p>Single page with several elements and classes using HTML, CSS, and Figma technology to realize the page that was challenged by Alura's course. Some customizations were made to make it more pleasant. </p>
 
 <h3>Project access</h3>
 <p>To access the project that is live, use the <a src="https://frontpage-bay.vercel.app/">link</a>
+
+
+
+
 
