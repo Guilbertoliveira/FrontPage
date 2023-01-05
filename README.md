@@ -47,7 +47,8 @@
     <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" width="55"/> 
 </p>
     
- 
+<h2> Figma used designer </h2>
+<p>To see the desktop designer <a href="https://www.figma.com/file/A7jLRB4m2OXIfZpOCnwBsv/Alura-Plus---Layout-(Copy)?node-id=0%3A1&t=5MVyb913mk4o5Am9-1">go here<a/>, the mobile version has no model and was developed by me.</p>
 
 
 
