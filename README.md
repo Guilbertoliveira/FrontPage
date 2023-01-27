@@ -30,7 +30,7 @@
 <img src="https://user-images.githubusercontent.com/41201436/210664652-ff24f1db-b9a9-4085-8092-72533ae49d50.gif" alt="this slowpoke moves"  width="500" />
 
 <h2 id="versaomobile">Version Mobile</h2>
-<img src="https://user-images.githubusercontent.com/41201436/210680410-d58611c2-3fef-4702-b1af-d6840f66dd82.gif" alt="this slowpoke moves"  width="250" />
+<img src="https://user-images.githubusercontent.com/41201436/215172207-7557e256-286d-4786-a79a-ffad95bf3756.gif" alt="this slowpoke moves"  width="250" />
 
 
 <h2 id="descricao-projeto">Project description</h2>
@@ -49,9 +49,3 @@
     
 <h2> Figma used designer </h2>
 <p>To see the desktop designer <a href="https://www.figma.com/file/A7jLRB4m2OXIfZpOCnwBsv/Alura-Plus---Layout-(Copy)?node-id=0%3A1&t=5MVyb913mk4o5Am9-1">go here<a/>, the mobile version has no model and was developed by me.</p>
-
-
-
-
-
-
