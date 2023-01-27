@@ -5,7 +5,7 @@
     --botao-azul: #167BF7;
     --cor-de-fundo: #00030C;
     --fonte-principal: 'Inter', sans-serif;
-    --botao-efeito: #b36f78;
+    --botao-efeito: #831d2b;
 
 
 }
@@ -89,14 +89,22 @@ body {
 
 .container__caixa {
     margin: 0 6em;
-    background-image: url("img/Background.png");
     background-size: 100%;
     background-repeat: no-repeat;
     background-position: center;
 
 }
 
+
 @media screen and (max-width: 480px) {    
+    .container__caixa {
+        margin: 0 6em;
+        background-image: url("img/Background.png");
+        background-size: cover;
+        background-position: 100%;
+
+    }
+ 
 
     .container__botao {
         margin: 5px 45px;
